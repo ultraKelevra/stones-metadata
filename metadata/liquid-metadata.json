@@ -1,0 +1,11 @@
+{
+    "name": "Liquid Asset",
+    "decimals": 18,
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Purple Liquid"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/ultraKelevra/stones-metadata/main/images/liquid.png"
+}
